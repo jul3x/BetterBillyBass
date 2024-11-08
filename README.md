@@ -5,6 +5,8 @@ Billy Bass can move its head, tail, and mouth in response to different audio fre
 
 There are numerous Billy Bass projects, but I haven't found any that provided frequency-aware code. So I created one. And it works pretty good!
 
+[https://youtu.be/alQjzy3bQl0](Video)
+
 ## Features
 - **Mouth movement**: Responds to vocal frequencies.
 - **Head and tail movement**: Controlled by bass/rhythmic frequencies.
